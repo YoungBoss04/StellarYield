@@ -1,0 +1,18 @@
+{
+  "default_branch": "dev",
+  "branches": [
+    "dev",
+    "feat/issue-1364-add-treasury-exposure-limit-warnings-by-asset",
+    "origin"
+  ],
+  "parent": {
+    "dev": null,
+    "feat/issue-1364-add-treasury-exposure-limit-warnings-by-asset": "dev",
+    "origin": "dev"
+  },
+  "order": [
+    "dev",
+    "feat/issue-1364-add-treasury-exposure-limit-warnings-by-asset",
+    "origin"
+  ]
+}
